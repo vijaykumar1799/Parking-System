@@ -1,2 +1,0 @@
-C:\Users\Vijay\Desktop\Parking management system\parkingSystem\Debug\parkingSystem.exe
-C:\Users\Vijay\Desktop\Parking management system\parkingSystem\Debug\parkingSystem.pdb
