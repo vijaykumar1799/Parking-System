@@ -1,3 +1,0 @@
-﻿  parkingSystem.cpp
-C:\Users\Vijay\Desktop\Parking management system\parkingSystem\parkingSystem.cpp(486): warning C4172: returning address of local variable or temporary: otherAreas
-  parkingSystem.vcxproj -> C:\Users\Vijay\Desktop\Parking management system\parkingSystem\Debug\parkingSystem.exe
